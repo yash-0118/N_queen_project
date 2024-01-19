@@ -1,1 +1,1 @@
-# N_qureen_project
+# N_queen_project
